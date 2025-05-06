@@ -8,7 +8,7 @@ This project uses **image processing techniques** to detect counterfeit currency
 - Feature extraction (watermarks, microtext, color patterns)
 - Machine learning classification to detect fake notes
 - Real-time image input via camera or uploaded files
-- User-friendly interface using OpenCV / Flask / Streamlit (whichever you used)
+- User-friendly interface using OpenCV 
 
 ## 🛠️ Technologies Used
 
