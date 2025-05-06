@@ -16,8 +16,7 @@ This project uses **image processing techniques** to detect counterfeit currency
 - OpenCV
 - NumPy
 - Matplotlib
-- Scikit-learn / TensorFlow (if applicable)
-- Flask / Streamlit (if any UI is added)
+
 
 
 
